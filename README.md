@@ -3,3 +3,4 @@
 
 Assessment, Analysis and hardening of a Vulnerable System
 
+Open the .PPTX for the results
